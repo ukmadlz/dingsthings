@@ -1,0 +1,30 @@
+{
+  "name": "dingsthings",
+  "version": "0.0.1",
+  "description": "A quick troll hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ukmadlz/dingsthings.git"
+  },
+  "author": "Mike Elsmore <mike.elsmore@uk.ibm.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ukmadlz/dingsthings/issues"
+  },
+  "homepage": "https://github.com/ukmadlz/dingsthings#readme",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "dotenv": "^1.2.0",
+    "face-plus-plus": "0.0.3",
+    "hapi": "^11.1.2",
+    "images": "^2.1.10",
+    "path": "^0.12.7",
+    "request": "^2.67.0"
+  }
+}
