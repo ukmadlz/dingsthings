@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ukmadlz/dingsthings#readme",
   "dependencies": {
     "dateformat": "^1.0.12",
-    "dotenv": "^1.2.0",
+    "dotenv": "^14.3.2",
     "face-plus-plus": "0.0.3",
     "hapi": "^11.1.2",
     "images": "^2.1.10",
